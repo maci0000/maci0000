@@ -5,6 +5,8 @@ Actualmente soy estudiante de pregrado de la carrera de Estadística Informátic
 
 👾Lenguajes que manejo:
 
+~R
+
 ~Python
 
 ~HTML (en proceso)
